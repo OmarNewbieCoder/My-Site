@@ -111,6 +111,11 @@ p {
   border-radius: 50%;
 }
 
+.profile-image {
+  max-width: 25%;
+  height: auto;
+}
+
 .bottom-cloud {
   position: absolute;
   left: 250px;
